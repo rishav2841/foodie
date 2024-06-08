@@ -1,0 +1,21 @@
+              // client
+
+Rishav@RAVI-LAP-SCLQAIFU MINGW64 ~/Desktop/FoodieProject/foodie (master)
+$ cd foodi-client/
+
+Rishav@RAVI-LAP-SCLQAIFU MINGW64 ~/Desktop/FoodieProject/foodie/foodi-client (master)
+$ npm run dev
+
+
+      //server
+
+Rishav@RAVI-LAP-SCLQAIFU MINGW64 ~/Desktop/FoodieProject/foodie (master)
+$ cd foodi-server/
+
+Rishav@RAVI-LAP-SCLQAIFU MINGW64 ~/Desktop/FoodieProject/foodie/foodi-server (master)
+$ npm start
+
+
+mongodb url
+
+mongodb+srv://saurabhworks890:saurabH123@saurabh.sob9ft2.mongodb.net/
